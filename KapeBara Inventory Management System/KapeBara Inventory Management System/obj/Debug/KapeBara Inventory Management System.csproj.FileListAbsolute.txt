@@ -1,0 +1,9 @@
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\bin\Debug\KapeBara Inventory Management System.exe.config
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\bin\Debug\KapeBara Inventory Management System.exe
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\bin\Debug\KapeBara Inventory Management System.pdb
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara_Inventory_Management_System.Properties.Resources.resources
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.csproj.GenerateResource.cache
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.exe
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.pdb
