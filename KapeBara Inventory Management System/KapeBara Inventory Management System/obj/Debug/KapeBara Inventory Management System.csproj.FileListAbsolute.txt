@@ -7,3 +7,7 @@ C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Invent
 C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.csproj.CoreCompileInputs.cache
 C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.exe
 C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara Inventory Management System.pdb
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara_Inventory_Management_System.EmployeeLoginForm.resources
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara_Inventory_Management_System.ui.AdminDashboardForm.resources
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara_Inventory_Management_System.ui.InventoryForm.resources
+C:\Users\ann\Desktop\Chan2x\KapeBara Inventory Management System\KapeBara Inventory Management System\obj\Debug\KapeBara_Inventory_Management_System.LoginForm.resources

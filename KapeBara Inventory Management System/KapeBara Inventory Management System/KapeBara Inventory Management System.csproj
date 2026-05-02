@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,14 +47,68 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="src\Form1.cs">
+    <Compile Include="models\Category.cs" />
+    <Compile Include="models\InventoryItem.cs" />
+    <Compile Include="models\Person.cs" />
+    <Compile Include="models\Product.cs" />
+    <Compile Include="models\PurchaseOrder.cs" />
+    <Compile Include="models\PurchaseOrderDetail.cs" />
+    <Compile Include="models\Supplier.cs" />
+    <Compile Include="services\AuthService.cs" />
+    <Compile Include="services\InventoryService.cs" />
+    <Compile Include="services\ProductService.cs" />
+    <Compile Include="services\PurchaseOrderService.cs" />
+    <Compile Include="services\SupplierService.cs" />
+    <Compile Include="ui\AdminLoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="src\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ui\AdminLoginForm.Designer.cs">
+      <DependentUpon>AdminLoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="src\Program.cs" />
+    <Compile Include="ui\EmployeeLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\EmployeeLoginForm.Designer.cs">
+      <DependentUpon>EmployeeLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ui\AdminDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\AdminDashboardForm.Designer.cs">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ui\InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\InventoryForm.Designer.cs">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ui\InventoryLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\InventoryLoginForm.Designer.cs">
+      <DependentUpon>InventoryLoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ui\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ui\PurchasingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\PurchasingForm.Designer.cs">
+      <DependentUpon>PurchasingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ui\PurchasingLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\PurchasingLoginForm.Designer.cs">
+      <DependentUpon>PurchasingLoginForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,6 +118,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ui\AdminDashboardForm.resx">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\EmployeeLoginForm.resx">
+      <DependentUpon>EmployeeLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\InventoryForm.resx">
+      <DependentUpon>InventoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -76,6 +143,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="dataAccess\" />
+    <Folder Include="database\" />
+    <Folder Include="testing\" />
+    <Folder Include="util\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
