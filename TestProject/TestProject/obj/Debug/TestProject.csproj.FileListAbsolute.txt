@@ -1,0 +1,17 @@
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.ui.inventoryForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.Forms.supplierForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.UserProfileForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.Forms.ProductForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.ui.DashboardForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.ui.dashboardPanel.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.ui.PurchaseOrderForm.resources
+C:\Users\ann\Desktop\Code Practice\C# projects\TestProject\TestProject\obj\Debug\TestProject.Registration.resources
